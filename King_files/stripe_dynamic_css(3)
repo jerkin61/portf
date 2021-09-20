@@ -1,0 +1,168 @@
+/*CACHED*//******************************************************************************************************
+ *            DYNAMIC STYLE FOR style-e090b014-snimsx8y version 1.0
+ *                                 	 
+ ******************************************************************************************************/
+	 .style-e090b014-1mehji3p .style-e090b014-snimsx8y.master.item-box   {
+		
+						position: relative;
+						
+						background-color: rgb(0, 0, 0);
+							
+		}
+	 .style-e090b014-1mehji3p .style-e090b014-snimsx8y .preview-item-links span:hover  ,  .style-e090b014-1mehji3p .style-e090b014-snimsx8y .preview-element.Link.hover-tester  { 
+						color: rgb(126, 126, 126);
+						
+						background-color: rgba(147, 147, 147, 0);
+							
+		}
+	 .style-e090b014-1mehji3p .style-e090b014-snimsx8y.master.item-box   {
+		
+						padding-left: 4%;
+						
+						padding-right: 4%;
+						
+						width: 92%;
+							
+		}
+	 .style-e090b014-1mehji3p .style-e090b014-snimsx8y .preview-item-links  {
+		
+						text-align: center;
+							
+		}
+	 .style-e090b014-1mehji3p .style-e090b014-snimsx8y  .preview-content-holder  {
+		
+						border-color: rgb(214, 214, 214);
+						
+						max-width: 2000px;
+						
+						margin-right: 0px;
+						
+						margin-top: 0px;
+						
+						margin-left: 0px;
+						
+						background-color: rgba(0, 0, 0, 0);
+						
+						text-align: left;
+							
+		}
+	 .style-e090b014-1mehji3p .style-e090b014-snimsx8y .preview-item-links span  ,  .style-e090b014-1mehji3p .style-e090b014-snimsx8y #sr-basket-widget *  { font-size:calc( 10px + ( 12rem - 10rem ) );
+						color: rgb(220, 220, 220);
+						
+						padding-bottom: 5px;
+						
+						border-color: rgb(246, 246, 246);
+						
+						letter-spacing: 0.05em;
+						
+						max-width: 1150px;
+						
+						padding-right: 10px;
+						
+						padding-left: 10px;
+						
+						padding-top: 5px;
+						
+						font-family: Raleway;
+						
+						background-color: rgba(255, 255, 255, 0);
+							
+		}
+	 .style-e090b014-1mehji3p .style-e090b014-snimsx8y .preview-title  ,  .style-e090b014-1mehji3p .style-e090b014-snimsx8y .preview-body h1  { font-size:calc( 10px + ( 16rem - 10rem ) );
+						color: rgb(255, 255, 255);
+						
+						letter-spacing: 0.05em;
+						
+						margin-left: 0px;
+						
+						font-family: 'Raleway Heavy';
+						
+						background-color: rgba(255, 255, 255, 0);
+							
+		}
+	 .style-e090b014-1mehji3p .style-e090b014-snimsx8y .preview-item-links.allow-bg-color  ,  .style-e090b014-1mehji3p .style-e090b014-snimsx8y .submenu  { 
+						background-color: rgb(255, 255, 255);
+							
+		}
+	 .style-e090b014-1mehji3p .style-e090b014-snimsx8y .preview-title-holder  {
+		
+						text-align: left;
+							
+		}
+	 .style-e090b014-1mehji3p .style-e090b014-snimsx8y .item-content:not(.blocks_layout)  {
+		
+						background-color: rgba(244, 203, 74, 0);
+							
+		}
+	 .style-e090b014-1mehji3p .style-e090b014-snimsx8y .preview-subtitle-holder  {
+		
+						text-align: left;
+							
+		}
+	 .style-e090b014-1mehji3p .style-e090b014-snimsx8y .stripe-background  {
+		
+						margin-left: -4%;
+							
+		}
+	 .style-e090b014-1mehji3p .style-e090b014-snimsx8y .preview-element.icon-source  {
+		
+						margin-right: 10px;
+						
+						margin-left: 10px;
+						
+						width: 40px;
+							
+		}
+	 .style-e090b014-1mehji3p .style-e090b014-snimsx8y  .preview-content-wrapper  {
+		
+						vertical-align: bottom;
+						
+						text-align: left;
+							
+		}
+	 .style-e090b014-1mehji3p .style-e090b014-snimsx8y .middle_layout .helper-div  ,  .style-e090b014-1mehji3p .style-e090b014-snimsx8y .multi_layout .helper-div.middle-center .text-side  { 
+						max-width: 1000px;
+							
+		}
+	 .style-e090b014-1mehji3p .style-e090b014-snimsx8y .preview-subtitle  ,  .style-e090b014-1mehji3p .style-e090b014-snimsx8y .preview-body h2  { font-size:calc( 10px + ( 12rem - 10rem ) );
+						color: rgb(152, 152, 152);
+						
+						letter-spacing: 0.05em;
+						
+						margin-right: 0px;
+						
+						margin-top: 5px;
+						
+						margin-left: 0px;
+						
+						font-family: Arial;
+							
+		}
+
+/******************************************************************************************************
+ *            UNIQUE STYLE
+ *                                 	 
+ ******************************************************************************************************/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/******************************************************************************************************
+ *            WEBSITE STYLE
+ *                                 	 
+ ******************************************************************************************************/
