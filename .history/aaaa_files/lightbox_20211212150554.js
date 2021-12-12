@@ -2,13 +2,13 @@
 
 ($("#img-link" ).on('click', function() { 
 	console.log ("clicked");
-	if ($(".light-box-image").attr("data-vbid") == "vbid-0676d39c-vfvbl1q1")
+	if ($(".preview-image-holder").attr("data-vbid") == "vbid-0676d39c-vfvbl1q1")
 	{$(".links-check").hide()};
-	if ($(".light-box-imager").attr("data-vbid") == "vbid-0676d39c-w6eyskhc")
+	if ($(".preview-image-holder").attr("data-vbid") == "vbid-0676d39c-w6eyskhc")
 	{$(".links-check").hide()};
-	if ($(".light-box-image").attr("data-vbid") == "vbid-0676d39c-3agw4z4z")
+	if ($(".preview-image-holder").attr("data-vbid") == "vbid-0676d39c-3agw4z4z")
 	{$(".links-check").hide()};
-	if ($(".light-box-image").attr("data-vbid") == "vbid-0676d39c-rybfwhdz")
+	if ($(".preview-image-holder").attr("data-vbid") == "vbid-0676d39c-rybfwhdz")
 	{$(".links-check").hide()};
 	
   }));/******************************************************************************************************
