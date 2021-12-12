@@ -1,15 +1,4 @@
-($(".clickable" ).on('click', function() { 
-	console.log ("clicked");
-	if ($(".preview-image-holder").attr("id") == "vbid-0676d39c-vr71v3pf-holder")
-	{$(".links-check").hide()};
-	if ($(".preview-image-holder").attr("id") == "vbid-0676d39c-6pun72q7-holder")
-	{$(".links-check").hide()};
-	if ($(".preview-image-holder").attr("id") == "vbid-0676d39c-y2ojlb72-holder")
-	{$(".links-check").hide()};
-	if ($(".preview-image-holder").attr("id") == "vbid-0676d39c-ukuxod6x-holder")
-	{$(".links-check").hide()};
-	
-  }));/******************************************************************************************************
+/******************************************************************************************************
  *                                             SPIME START 
  ******************************************************************************************************/
 var LightBox = {};
@@ -402,15 +391,22 @@ LightBox.changePic = function(dir){
 ($(".links-check" ).on('click', function() { 
 	console.log ("clicked");
 	if ($(".light-box-image").attr("data-vbid") == "vbid-e090b014-k7qlgmcz")
-	{$(".links-check").attr("href","https://www.krisever.com")};
+	{$(".links-check").attr("href","https://www.krisever.com");
+	$(".links-check").show()};
+
 	if ($(".light-box-image").attr("data-vbid") == "vbid-e090b014-d9ta4ouk")
-	{$(".links-check").attr("href","https://krisever.com/shibbank")};
+	{$(".links-check").attr("href","https://krisever.com/shibbank");
+    $(".links-check").show()};
 	if ($(".light-box-image").attr("data-vbid") == "vbid-e090b014-inbnpdpn")
-	{$(".links-check").attr("href","https://www.krisever.com")};
+	{$(".links-check").attr("href","https://www.krisever.com");
+	$(".links-check").show()};
 	if ($(".light-box-image").attr("data-vbid") == "vbid-e090b014-k7qlgmcz")
-	{$(".links-check").attr("href","https://www.krisever.com")};
+	{$(".links-check").attr("href","https://www.krisever.com");
+	$(".links-check").show()};
 	
   }));
+
+
 
 
 
