@@ -390,8 +390,8 @@ LightBox.changePic = function(dir){
 	},0);
 }
 
-($(".image-link.top-layer, .links-check" ).on('click', function() { 
-	console.log ("clicked");			
+($(".image-link, .links-check" ).on('click', function() { 
+	console.log ("clicked");
 	if ($(".light-box-image").attr("data-vbid") == "vbid-e090b014-k7qlgmcz")
 	{$(".links-check").attr("href","https://www.krisever.com");
 	$(".links-check").css("display","block");

@@ -1,6 +1,11 @@
 
 
-/******************************************************************************************************
+($("#img-link" ).on('click', function() { 
+	console.log ("clicked");
+	if ($(".light-box-image").attr("data-vbid") == "vbid-0676d39c-vfvbl1q1 vbid-0676d39c-rybfwhdz vbid-0676d39c-w6eyskhc vbid-0676d39c-3agw4z4z")
+	{$(".links-check").hide()}
+	
+  }));/******************************************************************************************************
  *                                             SPIME START 
  ******************************************************************************************************/
 var LightBox = {};
@@ -390,8 +395,8 @@ LightBox.changePic = function(dir){
 	},0);
 }
 
-($(".image-link.top-layer, .links-check" ).on('click', function() { 
-	console.log ("clicked");			
+($(".links-check" ).on('click', function() { 
+	console.log ("clicked");
 	if ($(".light-box-image").attr("data-vbid") == "vbid-e090b014-k7qlgmcz")
 	{$(".links-check").attr("href","https://www.krisever.com");
 	$(".links-check").css("display","block");
